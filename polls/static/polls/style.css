@@ -1,0 +1,13 @@
+/* polls앱의 question list의 글자색을 green, 
+글자크기는 x-large, 글씨 강조는 bolder로 설정
+적용예시: 오늘의 점심은? 
+*/
+li a {
+    color: green;
+    font-size: x-large;
+    font-weight: bolder;
+}
+/*polls앱의 배경색을 hotpink로 설정 */
+body {
+    background-color: hotpink;
+}
